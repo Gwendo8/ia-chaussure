@@ -38,7 +38,7 @@ class _LoginPageState extends State<LoginPage> {
     try {
       final response = await http.post(
         // Uri.parse('http://10.11.24.181:8000/login'),
-        Uri.parse('http://192.168.9.121:8000/login'),
+        Uri.parse('http://192.0.0.2:8000/login'),
 
         // pour le partage de co :  192.0.0.2
         // pour internet : 192.168.1.16
