@@ -103,7 +103,7 @@ Cette application mobile utilise un modèle d'apprentissage automatique pour rec
 - Lancez le serveur backend pour gérer les requêtes d'entraînement, d'analyse et de gestion des données :
   ```
   node server.js
-  ### 2. **Démarrage de l'application cliente Flutter**
+### 2. **Démarrage de l'application cliente Flutter**
 - Lancez l'application sur votre téléphone ou un émulateur :
   ```
   flutter run
